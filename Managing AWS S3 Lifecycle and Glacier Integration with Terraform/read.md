@@ -19,4 +19,5 @@ tfenv use 1.2.5
 terraform --version
 
 
+
 You will see in one of the last lines of output Installation of terraform v1.2.5 successful.
